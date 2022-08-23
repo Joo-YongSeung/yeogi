@@ -1,0 +1,50 @@
+html {
+    font-size: 15px;
+}
+
+.board_title strong{
+    font-size: 2rem;
+    color: black;
+    
+}
+
+.board_title{
+    margin-top: 300px;
+    color: rgba(27, 53, 149, 1);
+    margin-bottom: 30px;
+    border-bottom: 3px solid  rgba(27, 53, 149, 1);
+    margin-left: 500px;  
+    
+}
+
+
+.img {
+    margin-left: 500px;
+    text-align: center;
+    display: block;
+    float: left;
+    margin-top: 80px;
+    
+}
+
+.title {
+    font-size: 1rem;
+    color: black;
+    border-bottom: 3px solid  rgba(27, 53, 149, 1);
+    margin-bottom: 30px;
+    margin-left: 500px;
+    
+}
+
+.input {
+   
+    margin-left: 200px;
+    margin-top: 900px;
+   
+}
+
+.poto{
+    color: rgba(27, 53, 149, 1);
+    margin-left: 500px;
+    margin-top: 300px;
+}

@@ -1,0 +1,39 @@
+.regist{
+    text-align: center;
+    margin-top: 200px;
+}
+
+html {
+    font-size: 15px;
+}
+
+
+.regist_title {
+    margin-top: 100px;
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 30px;
+    border-bottom: 3px solid  rgba(27, 53, 149, 1);
+}
+
+.modify {
+    text-align: center;
+    margin-top: 300px;
+}
+
+.loginform{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.password{
+    margin-top: 20px;
+    margin-right: 85px;
+    text-align: center;
+}
+
+.button{
+    margin-top: 20px; 
+    text-align: center; 
+}
